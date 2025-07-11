@@ -1,0 +1,94 @@
+{
+  "VertexLimitVB": "890ec94f",
+  "CategoryHash": {
+    "Position": "039618b0",
+    "Texcoord": "8403fb71",
+    "Blend": "64424fcd"
+  },
+  "MatchFirstIndex": [
+    "0"
+  ],
+  "PartNameList": [
+    "1"
+  ],
+  "ImportModelList": [
+    "f6c93dd3-1"
+  ],
+  "VSHashList": [
+    "3f9206f9a7695029",
+    "8492b736a09a0193",
+    "4427aa096a16df82"
+  ],
+  "WorkGameType": "GPU_P12_N12_TA16_C4_T8_BW16_BI16_",
+  "CategoryDrawCategoryMap": {
+    "Position": "Position",
+    "Texcoord": "Texcoord",
+    "Blend": "Blend"
+  },
+  "GPU-PreSkinning": true,
+  "PartNameTextureResourceReplaceList": {
+    "1": [
+      "ps-t0 = f6c93dd3_1_b74e8ff5_Hash_DiffuseMap.dds",
+      "ps-t1 = f6c93dd3_1_f2cec614_Hash_LightMap.dds"
+    ]
+  },
+  "OriginalVertexCount": 8818,
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "SemanticIndex": "0",
+      "Format": "R8G8B8A8_UNORM",
+      "ByteWidth": 4,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "0",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_SINT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    }
+  ]
+}
