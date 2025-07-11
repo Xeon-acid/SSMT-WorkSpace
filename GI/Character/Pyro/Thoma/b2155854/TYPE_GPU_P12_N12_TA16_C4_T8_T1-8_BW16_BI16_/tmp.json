@@ -1,0 +1,118 @@
+{
+  "VertexLimitVB": "ba27d574",
+  "CategoryHash": {
+    "Position": "24ecd71a",
+    "Texcoord": "1b428e0a",
+    "Blend": "1fb4b2dd"
+  },
+  "MatchFirstIndex": [
+    "0",
+    "10782",
+    "45258"
+  ],
+  "PartNameList": [
+    "1",
+    "2",
+    "3"
+  ],
+  "ImportModelList": [
+    "b2155854-1",
+    "b2155854-2",
+    "b2155854-3"
+  ],
+  "VSHashList": [
+    "2b0a6b80fb4d8a68",
+    "7bf7586000311069",
+    "9de2b87705d3e51b",
+    "cc8a6861624dc360",
+    "e1b93b679944c045"
+  ],
+  "WorkGameType": "GPU_P12_N12_TA16_C4_T8_T1-8_BW16_BI16_",
+  "CategoryDrawCategoryMap": {
+    "Position": "Position",
+    "Texcoord": "Texcoord",
+    "Blend": "Blend"
+  },
+  "GPU-PreSkinning": true,
+  "PartNameTextureResourceReplaceList": {
+    "1": [
+      "ps-t0 = b2155854_1_93bd4687_Hash_DiffuseMap.dds",
+      "ps-t1 = b2155854_1_aeb656e3_Hash_LightMap.dds"
+    ],
+    "2": [
+      "ps-t0 = b2155854_2_1d3acd2a_Hash_DiffuseMap.dds",
+      "ps-t1 = b2155854_2_0aec6a26_Hash_LightMap.dds"
+    ],
+    "3": [
+      "ps-t0 = b2155854_3_1d3acd2a_Hash_DiffuseMap.dds",
+      "ps-t1 = b2155854_3_0aec6a26_Hash_LightMap.dds"
+    ]
+  },
+  "OriginalVertexCount": 13558,
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "SemanticIndex": "0",
+      "Format": "R8G8B8A8_UNORM",
+      "ByteWidth": 4,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "0",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "1",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_SINT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    }
+  ]
+}

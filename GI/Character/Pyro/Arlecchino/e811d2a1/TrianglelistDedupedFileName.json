@@ -1,0 +1,422 @@
+{
+  "000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t2=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t3=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t4=e4f367e3-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "e4f367e3_e4f367e3-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "e4f367e3_000002-ps-t4=e4f367e3-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t5=6961aef6-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "6961aef6_6961aef6-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "6961aef6_000002-ps-t5=6961aef6-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t6=3b162ece-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "3b162ece_3b162ece-BC3_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "3b162ece_000002-ps-t6=3b162ece-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t7=dafcb33c-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "dafcb33c_a2e77a25-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "dafcb33c_000002-ps-t7=dafcb33c-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t8=fa9ba14a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "fa9ba14a_79284c84-R8_UNORM.dds",
+    "FADataDedupedFileName": "fa9ba14a_000002-ps-t8=fa9ba14a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t9=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t18=851369a5-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "851369a5_2c974460-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "851369a5_000002-ps-t18=851369a5-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t19=f7b022b0-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "f7b022b0_5d4512f1-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "f7b022b0_000002-ps-t19=f7b022b0-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t20=553d3b4a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "553d3b4a_0b21bd7e-R16_UNORM.dds",
+    "FADataDedupedFileName": "553d3b4a_000002-ps-t20=553d3b4a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t21=dbe43bda-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "dbe43bda_788fa6b3-R16_UNORM.dds",
+    "FADataDedupedFileName": "dbe43bda_000002-ps-t21=dbe43bda-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t24=4f11231d-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "4f11231d_4f11231d-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "4f11231d_000002-ps-t24=4f11231d-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t25=abaa8120-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "abaa8120_abaa8120-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "abaa8120_000002-ps-t25=abaa8120-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t26=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t27=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t28=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000002-ps-t29=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t0=53cb2c4c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "53cb2c4c_53cb2c4c-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "53cb2c4c_000003-ps-t0=53cb2c4c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000003-ps-t1=355466c1-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "355466c1_355466c1-BC7_UNORM.dds",
+    "FADataDedupedFileName": "355466c1_000003-ps-t1=355466c1-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000003-ps-t2=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t3=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t4=e4f367e3-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "e4f367e3_e4f367e3-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "e4f367e3_000002-ps-t4=e4f367e3-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t5=6961aef6-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "6961aef6_6961aef6-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "6961aef6_000002-ps-t5=6961aef6-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t6=3b162ece-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "3b162ece_3b162ece-BC3_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "3b162ece_000002-ps-t6=3b162ece-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t7=dafcb33c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "dafcb33c_a2e77a25-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "dafcb33c_000002-ps-t7=dafcb33c-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t8=fa9ba14a-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "fa9ba14a_79284c84-R8_UNORM.dds",
+    "FADataDedupedFileName": "fa9ba14a_000002-ps-t8=fa9ba14a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t9=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t10=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t11=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t18=851369a5-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "851369a5_2c974460-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "851369a5_000002-ps-t18=851369a5-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t19=f7b022b0-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "f7b022b0_5d4512f1-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "f7b022b0_000002-ps-t19=f7b022b0-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t20=553d3b4a-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "553d3b4a_0b21bd7e-R16_UNORM.dds",
+    "FADataDedupedFileName": "553d3b4a_000002-ps-t20=553d3b4a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t21=dbe43bda-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "dbe43bda_788fa6b3-R16_UNORM.dds",
+    "FADataDedupedFileName": "dbe43bda_000002-ps-t21=dbe43bda-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t24=4f11231d-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "4f11231d_4f11231d-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "4f11231d_000002-ps-t24=4f11231d-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t25=abaa8120-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "abaa8120_abaa8120-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "abaa8120_000002-ps-t25=abaa8120-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t26=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t27=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t28=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000003-ps-t29=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t0=83096447-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t1=dc7d00e7-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t2=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t3=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t4=e4f367e3-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "e4f367e3_e4f367e3-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "e4f367e3_000002-ps-t4=e4f367e3-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t5=6961aef6-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "6961aef6_6961aef6-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "6961aef6_000002-ps-t5=6961aef6-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t6=3b162ece-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "3b162ece_3b162ece-BC3_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "3b162ece_000002-ps-t6=3b162ece-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t7=dafcb33c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "dafcb33c_a2e77a25-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "dafcb33c_000002-ps-t7=dafcb33c-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t8=fa9ba14a-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "fa9ba14a_79284c84-R8_UNORM.dds",
+    "FADataDedupedFileName": "fa9ba14a_000002-ps-t8=fa9ba14a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t9=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t10=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t11=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t18=851369a5-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "851369a5_2c974460-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "851369a5_000002-ps-t18=851369a5-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t19=f7b022b0-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "f7b022b0_5d4512f1-R8G8B8A8_UNORM.dds",
+    "FADataDedupedFileName": "f7b022b0_000002-ps-t19=f7b022b0-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t20=553d3b4a-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "553d3b4a_0b21bd7e-R16_UNORM.dds",
+    "FADataDedupedFileName": "553d3b4a_000002-ps-t20=553d3b4a-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t21=dbe43bda-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "dbe43bda_788fa6b3-R16_UNORM.dds",
+    "FADataDedupedFileName": "dbe43bda_000002-ps-t21=dbe43bda-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t24=4f11231d-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "4f11231d_4f11231d-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "4f11231d_000002-ps-t24=4f11231d-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t25=abaa8120-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "abaa8120_abaa8120-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "abaa8120_000002-ps-t25=abaa8120-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t26=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t27=bb5905b2-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "bb5905b2_ad557365-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "bb5905b2_000002-ps-t11=bb5905b2-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t28=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000004-ps-t29=b7ff7a6e-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000017-ps-t0=83096447-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000017-ps-t1=dc7d00e7-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds": {
+    "FALogDedupedFileName": "7eb5b84e_431fb0d8-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000017-ps-t3=b7ff7a6e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000018-ps-t0=53cb2c4c-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "53cb2c4c_53cb2c4c-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "53cb2c4c_000003-ps-t0=53cb2c4c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000018-ps-t1=355466c1-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "355466c1_355466c1-BC7_UNORM.dds",
+    "FADataDedupedFileName": "355466c1_000003-ps-t1=355466c1-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000018-ps-t2=b0e08915-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "b0e08915_b0e08915-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b0e08915_000018-ps-t2=b0e08915-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000018-ps-t3=!S!=58d2635b-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "58d2635b_b7c7f7be-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "58d2635b_000018-ps-t3=!S!=58d2635b-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000018-ps-t4=!S!=7eb5b84e-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "7eb5b84e_678157ea-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000018-ps-t5=b7ff7a6e-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "05f2366f_05f2366f-BC7_UNORM.dds",
+    "FADataDedupedFileName": "05f2366f_000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000019-ps-t0=83096447-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000019-ps-t1=dc7d00e7-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000019-ps-t2=b0e08915-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "b0e08915_b0e08915-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b0e08915_000018-ps-t2=b0e08915-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000019-ps-t3=!S!=58d2635b-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "58d2635b_b7c7f7be-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "58d2635b_000018-ps-t3=!S!=58d2635b-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000019-ps-t4=!S!=7eb5b84e-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "7eb5b84e_431fb0d8-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000019-ps-t5=b7ff7a6e-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000019-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds": {
+    "FALogDedupedFileName": "05f2366f_05f2366f-BC7_UNORM.dds",
+    "FADataDedupedFileName": "05f2366f_000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000023-ps-t0=83096447-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000023-ps-t1=dc7d00e7-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000023-ps-t2=b7ff7a6e-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000023-ps-t3=b7ff7a6e-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000023-ps-t4=!S!=7eb5b84e-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "7eb5b84e_431fb0d8-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000023-ps-t5=b7ff7a6e-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000023-ps-t6=05f2366f-vs=e1b93b679944c045-ps=a75fba00402cdb6e.dds": {
+    "FALogDedupedFileName": "05f2366f_05f2366f-BC7_UNORM.dds",
+    "FADataDedupedFileName": "05f2366f_000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000024-ps-t0=53cb2c4c-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "53cb2c4c_53cb2c4c-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "53cb2c4c_000003-ps-t0=53cb2c4c-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000024-ps-t1=355466c1-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "355466c1_355466c1-BC7_UNORM.dds",
+    "FADataDedupedFileName": "355466c1_000003-ps-t1=355466c1-vs=3f9206f9a7695029-ps=9d8b59bcaff384da.dds"
+  },
+  "000024-ps-t2=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000024-ps-t3=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000024-ps-t4=!S!=7eb5b84e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "7eb5b84e_431fb0d8-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000024-ps-t5=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000024-ps-t6=05f2366f-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "05f2366f_05f2366f-BC7_UNORM.dds",
+    "FADataDedupedFileName": "05f2366f_000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  },
+  "000025-ps-t0=83096447-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "83096447_83096447-BC7_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "83096447_000002-ps-t0=83096447-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000025-ps-t1=dc7d00e7-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "dc7d00e7_dc7d00e7-BC7_UNORM.dds",
+    "FADataDedupedFileName": "dc7d00e7_000002-ps-t1=dc7d00e7-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000025-ps-t2=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000025-ps-t3=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000025-ps-t4=!S!=7eb5b84e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "7eb5b84e_431fb0d8-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "7eb5b84e_000017-ps-t2=!S!=7eb5b84e-vs=cc8a6861624dc360-ps=d7d376f89ce69c78.dds"
+  },
+  "000025-ps-t5=b7ff7a6e-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "b7ff7a6e_03d46264-R8G8B8A8_UNORM_SRGB.dds",
+    "FADataDedupedFileName": "b7ff7a6e_000002-ps-t10=b7ff7a6e-vs=2b0a6b80fb4d8a68-ps=70430cb67232e42e.dds"
+  },
+  "000025-ps-t6=05f2366f-vs=4427aa096a16df82-ps=ffdc81d8ec845f96.dds": {
+    "FALogDedupedFileName": "05f2366f_05f2366f-BC7_UNORM.dds",
+    "FADataDedupedFileName": "05f2366f_000018-ps-t6=05f2366f-vs=8492b736a09a0193-ps=1d9197faa516aa6c.dds"
+  }
+}

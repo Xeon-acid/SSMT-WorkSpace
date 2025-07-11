@@ -1,0 +1,122 @@
+{
+  "VertexLimitVB": "44e3487a",
+  "CategoryHash": {
+    "Position": "6895f405",
+    "Texcoord": "8b17a419",
+    "Blend": "e211de60"
+  },
+  "MatchFirstIndex": [
+    "0",
+    "40179",
+    "74412"
+  ],
+  "PartNameList": [
+    "1",
+    "2",
+    "3"
+  ],
+  "ImportModelList": [
+    "e811d2a1-1",
+    "e811d2a1-2",
+    "e811d2a1-3"
+  ],
+  "VSHashList": [
+    "2b0a6b80fb4d8a68",
+    "3f9206f9a7695029",
+    "cc8a6861624dc360",
+    "8492b736a09a0193",
+    "e1b93b679944c045",
+    "4427aa096a16df82"
+  ],
+  "WorkGameType": "GPU_P12_N12_TA16_C4_T8_T1-8_BW16_BI16_",
+  "CategoryDrawCategoryMap": {
+    "Position": "Position",
+    "Texcoord": "Texcoord",
+    "Blend": "Blend"
+  },
+  "GPU-PreSkinning": true,
+  "PartNameTextureResourceReplaceList": {
+    "1": [
+      "ps-t0 = e811d2a1_1_83096447_Hash_DiffuseMap.dds",
+      "ps-t1 = e811d2a1_1_dc7d00e7_Hash_LightMap.dds",
+      "ps-t6 = e811d2a1_1_05f2366f_Hash_NormalMap.dds"
+    ],
+    "2": [
+      "ps-t0 = e811d2a1_2_53cb2c4c_Hash_DiffuseMap.dds",
+      "ps-t1 = e811d2a1_2_355466c1_Hash_LightMap.dds",
+      "ps-t6 = e811d2a1_2_05f2366f_Hash_NormalMap.dds"
+    ],
+    "3": [
+      "ps-t0 = e811d2a1_3_83096447_Hash_DiffuseMap.dds",
+      "ps-t1 = e811d2a1_3_dc7d00e7_Hash_LightMap.dds",
+      "ps-t6 = e811d2a1_3_05f2366f_Hash_NormalMap.dds"
+    ]
+  },
+  "OriginalVertexCount": 22510,
+  "D3D11ElementList": [
+    {
+      "SemanticName": "POSITION",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "NORMAL",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32_FLOAT",
+      "ByteWidth": 12,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "TANGENT",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb0",
+      "Category": "Position"
+    },
+    {
+      "SemanticName": "COLOR",
+      "SemanticIndex": "0",
+      "Format": "R8G8B8A8_UNORM",
+      "ByteWidth": 4,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "0",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "TEXCOORD",
+      "SemanticIndex": "1",
+      "Format": "R32G32_FLOAT",
+      "ByteWidth": 8,
+      "ExtractSlot": "vb1",
+      "Category": "Texcoord"
+    },
+    {
+      "SemanticName": "BLENDWEIGHTS",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_FLOAT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    },
+    {
+      "SemanticName": "BLENDINDICES",
+      "SemanticIndex": "0",
+      "Format": "R32G32B32A32_SINT",
+      "ByteWidth": 16,
+      "ExtractSlot": "vb1",
+      "Category": "Blend"
+    }
+  ]
+}
